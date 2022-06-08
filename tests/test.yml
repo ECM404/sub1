@@ -1,0 +1,31 @@
+"Implementação da função zenit_polar":
+  command: "./tests/test_zenit.out"
+  stdin: [None]
+  stdout: ["polar zenit"]
+  prompts: []
+  weight: 1
+  hints: ['', '', '']
+
+"Implementação da função decripta_linha":
+  command: "./tests/test_decripta.out"
+  stdin: [None]
+  stdout: ["polar zenit"]
+  prompts: []
+  weight: 1
+  hints: ['', '', '']
+
+"Implementação da função ler linha":
+  command: "./tests/test_linha.out"
+  stdin: [None]
+  stdout: ["zEnIt poLar"]
+  prompts: []
+  weight: 1
+  hints: ['', '', '']
+
+"Implementação da função decripta_arquivo":
+  command: "./tests/test_arquivo.out"
+  stdin: [None]
+  stdout: ["pOlAr zeNitzenit polar"]
+  prompts: []
+  weight: 1
+  hints: ['', '', '']
