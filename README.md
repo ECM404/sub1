@@ -18,13 +18,13 @@ make all
 
 Para compilar o projeto utilize:
 ```bash
-make pokedex
+make sub1
 ```
 
 Para compilar e rodar use:
 
 ```bash
-make pokedex run
+make sub1 run
 ```
 
 Para compilar e testar use:
